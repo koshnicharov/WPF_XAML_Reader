@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\bin\Debug\Homework_Nanotec.exe.config
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\bin\Debug\Homework_Nanotec.exe
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\bin\Debug\Homework_Nanotec.pdb
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec_MarkupCompile.cache
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec_MarkupCompile.lref
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec.g.resources
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec.Properties.Resources.resources
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec.exe
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec.pdb
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Debug\Homework_Nanotec.csprojAssemblyReference.cache

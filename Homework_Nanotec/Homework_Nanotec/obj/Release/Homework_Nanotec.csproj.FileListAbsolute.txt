@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\bin\Release\Homework_Nanotec.exe.config
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\bin\Release\Homework_Nanotec.exe
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\bin\Release\Homework_Nanotec.pdb
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\MainWindow.g.cs
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\App.g.cs
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\Homework_Nanotec_MarkupCompile.cache
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\Homework_Nanotec_MarkupCompile.lref
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\MainWindow.baml
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\Homework_Nanotec.g.resources
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\Homework_Nanotec.Properties.Resources.resources
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\Homework_Nanotec.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\Homework_Nanotec.exe
+C:\Users\user\source\repos\Homework_Nanotec\Homework_Nanotec\obj\Release\Homework_Nanotec.pdb
